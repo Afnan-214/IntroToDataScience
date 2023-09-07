@@ -1,4 +1,3 @@
-#c:/Users/ELYOSR/Desktop/grc (4).csv
 #Read data
 path <- readline("Enter dataset path (.csv) :")
 data_set <- read.csv(path)
