@@ -1,6 +1,6 @@
 # IntroToDataScience
 A group project to practice the topics of Intro to data science course.
-> It present:
+> It presents:
   <ol>
     <li>Data Exploration using visualizations </li>
     <li>cluster analysis for the data set using the K-mean method</li>
